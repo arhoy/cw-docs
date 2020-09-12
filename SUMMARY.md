@@ -20,8 +20,6 @@
   * [Purchase A Domain Name](how-to-guides/purchase-a-domain-name.md)
   * [Setup A Custom Domain](how-to-guides/setup-a-custom-domain.md)
   * [Link Directly to menu](how-to-guides/link-directly-to-menu.md)
-  * [Setup an iOS & Android App](how-to-guides/setup-an-ios-and-android-app.md)
-  * [Setup Facebook Ordering](how-to-guides/setup-facebook-ordering.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Special Features](platform-information/special-features.md)
