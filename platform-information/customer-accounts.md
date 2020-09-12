@@ -26,8 +26,6 @@ Customers create accounts using:
 
 ## Guides
 
-{% page-ref page="../how-to-guides/setup-facebook-login.md" %}
-
 ## Caveats & Known Issues
 
 * Google and Facebook log in cannot be used on a mobile app as they have disabled it from being used in such a medium.

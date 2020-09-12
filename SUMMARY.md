@@ -17,7 +17,6 @@
   * [Printing - API Key](how-to-guides/printing-api-key.md)
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
   * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
-  * [Setup Facebook Login](how-to-guides/setup-facebook-login.md)
   * [Purchase A Domain Name](how-to-guides/purchase-a-domain-name.md)
   * [Setup A Custom Domain](how-to-guides/setup-a-custom-domain.md)
   * [Link Directly to menu](how-to-guides/link-directly-to-menu.md)
@@ -25,7 +24,6 @@
   * [Setup Facebook Ordering](how-to-guides/setup-facebook-ordering.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
-  * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
   * [Special Features](platform-information/special-features.md)
   * [Restaurant Promotions](platform-information/covid-19-discount-for-united-kingdom.md)
 
