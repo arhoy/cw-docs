@@ -7,7 +7,7 @@ description: >-
 
 # Setup Your Menus
 
-## Setup Process
+## SET UP
 
 Menus are organized in a tree structure. Menus contain categories and categories contain dishes. The general setup process is as follows.
 
@@ -21,26 +21,9 @@ Menus are organized in a tree structure. Menus contain categories and categories
 You will likely only need one menu. Multiple menus are useful if certain items are restricted in particular ways. You may need to create a "Breakfast" menu or a "Delivery" menu depending on your requirements
 {% endhint %}
 
-## Example Menu Structure
+## MENUS
 
-```text
-- Menu: Main menu
--- Category: Pizzas
----- Dish: Ham & Cheese
----- Dish: Margrita
----- Dish: Veggie Supreme
--- Category: Sides
----- Dish: Chicken Wings
----- Dish: Fries
--- Category: Drinks
----- Dish: Iced Tea
----- Dish: Cola
----- Dish: Water
-```
-
-## Menus
-
-These represent your actual real-life menus. Many stores have just one main menu that's always available. Others may have a lunch & dinner menu or a pickup only menu. You will need at least one menu for your online store to work.
+These represent your actual real-life menus. Many stores have just one main menu that's always available. Others may have a lunch & dinner menu or a pickup only menu. It is also possible to have a catering menu too. 
 
 Menu availability can depend on certain conditions such as order types \(pickups or deliveries\), order timings \(e.g. pre-order only\). They can also be restricted to certain days and timings.
 
@@ -48,7 +31,7 @@ Menu availability can depend on certain conditions such as order types \(pickups
 If you only have one menu available, there is no need to place restrictions on it. You can restrict the system globally to your business rules and the menu will work according to that. Restricting a menu to certain conditions is only needed if you have multiple menus
 {% endhint %}
 
-## Categories
+## CATEGORIES
 
 Categories represent a sub-section of a menu and consist of dishes. For example, if you have one standard menu, your categories might include:
 
@@ -62,7 +45,7 @@ Categories represent a sub-section of a menu and consist of dishes. For example,
 In some instances, you may need to create a separate menu instead of using a category. For example, If you have many different categories of drinks, such as spirits, wines, beers, sodas, etc. You might want to create a separate drinks menu for all those categories instead of adding it to your food menu.
 {% endhint %}
 
-## Dishes
+## DISHES
 
 Dishes represent actual items that can be purchased. There are 2 types of dishes.
 
@@ -101,7 +84,7 @@ There are 3 statuses available for a dish. They are:
 
 In the admin dashboard, you can edit the status of a dish by checking the tickbox on the left of it. Then select the desired status from the popup menu.
 
-## Option Sets
+## OPTION SETS
 
 All **dish customization is done using option sets**. Option sets are a configurable set of options that can be assigned to any number of dishes. With option sets, you are able to create requirements such as:
 
@@ -113,21 +96,19 @@ All **dish customization is done using option sets**. Option sets are a configur
 To learn how to create an option set that meets your requirements, read the descriptions of each of the settings available when creating an option set. Each setting is explained in detail. Alternatively, watch our menu setup video above to see us create the above examples.
 {% endhint %}
 
-## Dish Tags
+## DISH TAGS
 
 Tags allow you to highly particular attributes about a dish with a fully customizable visual indicator. You can create tags for attributes such as:
 
 * Spicy
 * Vegan
-* Gluten free
-
-## Common Menu Problems
-
-### **No menu or categories showing under the store**
+* Popular
+* Gluten-Free
+* New
 
 For your menu to display in your online store, make sure to add at least one category and one dish to it.
 
 ### **Dish images to large**
 
-We highly recommend that you use the website [https://www.birme.net](https://www.birme.net) or [https://tinypng.com/](https://tinypng.com/) to optimize all your images. Given that the maximum image width is only around 600 pixels, it's best to make sure all your images are no wider than that. This is going to help significantly with your page load time especially for mobile customers.
+We highly recommend that you use [https://tinypng.com/](https://tinypng.com/) to optimize all your images. Given that the maximum image width is only around 600 pixels, it's best to make sure all your images are no wider than that. This is going to help significantly with your page load time especially for mobile customers.
 

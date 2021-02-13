@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Getting Started](getting-started/README.md)
-  * [Hardware Requirements](getting-started/hardware-requirements-1.md)
+* [GETTING STARTED](getting-started/README.md)
+  * [What will I need to take orders?](getting-started/hardware-requirements-1.md)
   * [10-Minute Quickstart](getting-started/10-minute-quickstart.md)
   * [Setup Your Menus](getting-started/setup-your-menus.md)
   * [Configure Your Services](getting-started/configure-your-services.md)

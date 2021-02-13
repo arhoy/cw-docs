@@ -1,31 +1,12 @@
 ---
 description: >-
-  This section will take you through the process of creating your account,
-  setting up your restaurant, customizing your settings and managing orders.
+  This section will take you through the process of logging, testing your first
+  order and some of the most common questions and settings.
 ---
 
-# Getting Started
+# GETTING STARTED
 
-## Getting Super Powers
+If you don't want to go through the process yourself, I recommend you schedule a zoom call or phone call
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+## [https://calendly.com/theorderguys/15min](https://calendly.com/theorderguys/15min)
 
